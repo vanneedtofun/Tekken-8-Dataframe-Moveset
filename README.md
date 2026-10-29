@@ -1,4 +1,4 @@
-# Tekken Move Guide
+# Tekken Move Guide 🎮
 
 Aplikasi Android berbasis Flutter untuk melihat daftar jurus dan mencari informasi moveset Tekken 8.
 
@@ -33,7 +33,7 @@ tekken_move_guide_fixed/
 └── README.md                  # Dokumentasi proyek
 ```
 
-## Fitur Utama Aplikasi
+## Fitur Utama Aplikasi 👾
 
 - Menampilkan daftar jurus berdasarkan nama karakter.
 - Mencari jurus berdasarkan nama atau notasi tombol, seperti `jab`, `df+2`, dan `EWGF`.
